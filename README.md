@@ -1,11 +1,14 @@
 # HRSfrontend
-- First
-  `npm install`
-- Then
-- `npm dev`
+最好用yarn来管理 
+
+First
+  - `npm install`
+  - `yarn install`
+  - 
+Then
+  - `yarn dev`
 or
-`npm run build`
-`npm start`
+  - `yarn build` and `yarn start`
 
 推荐使用VS Code打开
 部分图片显示不全可能是获取不到照片 属于正常情况
