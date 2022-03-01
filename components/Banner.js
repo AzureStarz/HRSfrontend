@@ -6,7 +6,7 @@ export default function Banner() {
       <span>
         <h2>Not sure where to go? Perfect.</h2>
         <a href="#" className="btn btn-dark">
-          I'm flexible
+          I&apos;m flexible
         </a>
       </span>
     </BannerSection>

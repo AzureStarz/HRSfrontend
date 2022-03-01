@@ -49,7 +49,7 @@ const UserButton = forwardRef<HTMLButtonElement, UserButtonProps>(
     </UnstyledButton>
   )
 );
-
+UserButton.displayName = 'UserButton'
 function AvartarMenu() {
   return (
     <Group position="center">

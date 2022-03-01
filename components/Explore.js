@@ -37,7 +37,7 @@ function AirbnbExample(props) {
 
   return (
     <Box as='button' onClick={()=>console.log("hah")} maxW='sm' borderWidth='1px' borderRadius='lg' overflow='hidden'>
-      <Image src={props.img} alt={null} />
+      <Image src={props.img} alt={'image'} />
 
       <Box p='6'>
         <Box display='flex' alignItems='baseline'>
